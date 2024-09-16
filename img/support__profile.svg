@@ -1,0 +1,15 @@
+<svg width="38.113632" height="38.113647" viewBox="0 0 38.1136 38.1136" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<radialGradient gradientTransform="translate(19.0568 19.0568) rotate(90) scale(27.5265 27.5265)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_43_122_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#3839D5"/>
+			<stop offset="1.000000" stop-color="#8910E9"/>
+		</radialGradient>
+	</defs>
+	<circle id="Ellipse 19" cx="19.056824" cy="19.056763" r="19.056818" fill="url(#paint_radial_43_122_0)" fill-opacity="1.000000"/>
+	<path id="Vector" d="M14.04 19.07L15.23 19.07C14.09 17.59 14.09 15.23 15.23 13.75L14.18 13.75C16.2 10.07 21.59 10.07 23.61 13.75L22.56 13.75C23.7 15.23 23.7 17.59 22.56 19.07L23.74 19.07C24.62 19.07 25.33 18.36 25.33 17.49L25.33 15.33C25.33 14.97 25.2 14.63 24.99 14.36C22.98 8.54 14.82 8.53 12.8 14.36C12.59 14.63 12.46 14.97 12.46 15.33L12.46 17.49C12.46 18.36 13.17 19.07 14.04 19.07Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M25.99 25.64C25.37 22.83 22.8 19.93 18.89 19.93C15.15 19.93 12.45 22.66 11.8 25.63C11.63 26.42 12.23 27.16 13.04 27.16C15.57 27.16 22.3 27.16 24.75 27.16C25.55 27.16 26.15 26.42 25.99 25.64Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M19.97 17.52L22.23 17.52C23.01 15.31 21.25 12.85 18.89 12.89C16.95 12.89 15.37 14.47 15.37 16.41C15.38 19.79 19.7 21.19 21.7 18.53L19.97 18.53C19.3 18.51 19.3 17.55 19.97 17.52Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+</svg>
