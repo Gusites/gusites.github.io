@@ -1,0 +1,19 @@
+<svg width="44.000000" height="44.000000" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip54_1012">
+			<rect id="ethereum-svgrepo-com 1" rx="-0.500000" width="43.000000" height="43.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="ethereum-svgrepo-com 1" rx="-0.500000" width="43.000000" height="43.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip54_1012)">
+		<path id="Vector" d="M6.6 0L37.39 0C41.04 0 44 2.95 44 6.59L44 37.4C44 41.04 41.04 44 37.39 44L6.6 44C2.95 44 0 41.04 0 37.4L0 6.59C0 2.95 2.95 0 6.6 0Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M22 31.1L22 40.3L33.25 24.4L22 31.1Z" fill="#3C3C3B" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M22 3.52L33.25 22.25L22 28.96L10.65 22.25L22 3.52Z" fill="#343434" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M22 3.52L22 17.1L10.65 22.25L22 3.52ZM10.65 24.4L22 31.1L22 40.3L10.65 24.4Z" fill="#8C8C8C" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M22 17.1L22 28.96L33.25 22.25L22 17.1Z" fill="#141414" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M10.65 22.25L22 17.1L22 28.96L10.65 22.25Z" fill="#393939" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
