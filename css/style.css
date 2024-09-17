@@ -1604,6 +1604,9 @@ body {
 .abouts .part__inputs {
   grid-template-columns: repeat(8,1fr)
 }
+.history .prod__buy::before {
+  display: none
+}
 .swiper {
   overflow: hidden
 }
